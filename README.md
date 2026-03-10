@@ -1,4 +1,4 @@
-# 🔍 dig.sh - Kézako ?
+# 🔍 dig.sh
 
 `dig.sh` permet d'interroger les enregistrements DNS d'un nom de domaine et de son sous-domaine `www` depuis un terminal Linux.
 
